@@ -1,0 +1,7 @@
+.container {
+  background-image: url("../Assets/background.png");
+  /* background-size: cover; */
+  background-repeat: repeat;
+  z-index: 0;
+  height: 85vh;
+}
